@@ -1,0 +1,39 @@
+body {
+    font-family: raleway;
+}
+
+/*nav*/
+
+.my_bg {
+    background-color: #ddc7a6;
+}
+
+/*header*/
+
+.my_header {
+    background-color: #ffefd8;
+    font-family: raleway;
+}
+.my_texth {
+    color: black;
+    margin-left: 0px;
+}
+
+/* section acerca de mi*/
+
+.aboutme {
+    background-color: #ddc7a6;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*section trabajos*/
+#Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #d29977;
+  }
+  
